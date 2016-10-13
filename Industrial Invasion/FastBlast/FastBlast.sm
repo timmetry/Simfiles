@@ -5,7 +5,7 @@
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #GENRE:Industrial;
-#CREDIT:Timinator+Caveman;
+#CREDIT:Timmetry+Caveman;
 #BANNER:FastBlast.png;
 #BACKGROUND:;
 #LYRICSPATH:;
@@ -21,10 +21,10 @@
 #BGCHANGES:;
 #KEYSOUNDS:;
 
-//---------------dance-single - Timinator+Caveman----------------
+//---------------dance-single - Timmetry+Caveman----------------
 #NOTES:
      dance-single:
-     Timinator+Caveman:
+     Timmetry+Caveman:
      Challenge:
      12:
      0.950,0.270,0.049,0.370,1.000:

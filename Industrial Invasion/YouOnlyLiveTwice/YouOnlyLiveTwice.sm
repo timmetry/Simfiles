@@ -5,7 +5,7 @@
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #GENRE:Industrial;
-#CREDIT:Timinator+Caveman;
+#CREDIT:Timmetry+Caveman;
 #BANNER:YouOnlyLiveTwice.png;
 #BACKGROUND:YouOnlyLiveTwice-bg.png;
 #LYRICSPATH:;
@@ -25,10 +25,10 @@
 #BGCHANGES:;
 #KEYSOUNDS:;
 
-//---------------dance-single - Timinator+Caveman----------------
+//---------------dance-single - Timmetry+Caveman----------------
 #NOTES:
      dance-single:
-     Timinator+Caveman:
+     Timmetry+Caveman:
      Challenge:
      10:
      0.782,0.697,0.006,0.144,1.000:

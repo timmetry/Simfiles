@@ -5,7 +5,7 @@
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #GENRE:;
-#CREDIT:Timinator+Caveman;
+#CREDIT:Timmetry+Caveman;
 #BANNER:CandyStoreLootingParty.png;
 #BACKGROUND:CandyStoreLootingParty-bg.png;
 #LYRICSPATH:;
@@ -21,10 +21,10 @@
 #BGCHANGES:;
 #KEYSOUNDS:;
 
-//---------------dance-single - Timinator+Caveman----------------
+//---------------dance-single - Timmetry+Caveman----------------
 #NOTES:
      dance-single:
-     Timinator+Caveman:
+     Timmetry+Caveman:
      Challenge:
      17:
      1.000,1.000,0.000,0.065,1.000:
@@ -1215,10 +1215,10 @@ M00M
 ;
 
 
-//---------------dance-single - Timinator+Caveman----------------
+//---------------dance-single - Timmetry+Caveman----------------
 #NOTES:
      dance-single:
-     Timinator+Caveman:
+     Timmetry+Caveman:
      Hard:
      14:
      1.000,1.000,0.000,0.065,1.000:
@@ -2313,10 +2313,10 @@ M00M
 ;
 
 
-//---------------dance-single - Timinator+Caveman----------------
+//---------------dance-single - Timmetry+Caveman----------------
 #NOTES:
      dance-single:
-     Timinator+Caveman:
+     Timmetry+Caveman:
      Medium:
      11:
      0.783,1.000,0.000,0.065,0.194:
@@ -2979,10 +2979,10 @@ M00M
 ;
 
 
-//---------------dance-single - Timinator+Caveman----------------
+//---------------dance-single - Timmetry+Caveman----------------
 #NOTES:
      dance-single:
-     Timinator+Caveman:
+     Timmetry+Caveman:
      Easy:
      9:
      0.561,0.740,0.043,0.065,0.043:
@@ -3629,10 +3629,10 @@ M00M
 ;
 
 
-//---------------dance-single - Timinator+Caveman----------------
+//---------------dance-single - Timmetry+Caveman----------------
 #NOTES:
      dance-single:
-     Timinator+Caveman:
+     Timmetry+Caveman:
      Beginner:
      7:
      0.329,0.348,0.011,0.086,0.043:
