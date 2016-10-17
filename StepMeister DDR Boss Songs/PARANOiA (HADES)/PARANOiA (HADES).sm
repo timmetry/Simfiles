@@ -5,13 +5,13 @@
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #GENRE:;
-#CREDIT:;
+#CREDIT:DDR+Timmetry;
 #BANNER:PARANOiA (HADES).png;
 #BACKGROUND:PARANOiA (HADES)-bg.png;
 #LYRICSPATH:;
 #CDTITLE:./CDTITLES/Dance Dance Revolution SuperNOVA 2.png;
 #MUSIC:PARANOiA (HADES).mp3;
-#OFFSET:0.712;
+#OFFSET:0.760;
 #SAMPLESTART:0.020;
 #SAMPLELENGTH:15.000;
 #SELECTABLE:YES;
@@ -21,10 +21,10 @@
 #BGCHANGES:;
 #KEYSOUNDS:;
 
-//---------------dance-single - DDR+StepMeister----------------
+//---------------dance-single - DDR+Timmetry----------------
 #NOTES:
      dance-single:
-     DDR+StepMeister:
+     DDR+Timmetry:
      Hard:
      11:
      0.878,0.853,0.858,0.020,0.161:
@@ -995,10 +995,10 @@
 ;
 
 
-//---------------dance-single - DDR+StepMeister----------------
+//---------------dance-single - DDR+Timmetry----------------
 #NOTES:
      dance-single:
-     DDR+StepMeister:
+     DDR+Timmetry:
      Challenge:
      13:
      1.000,1.000,0.424,0.797,0.504:
@@ -2141,10 +2141,10 @@ MMMM
 ;
 
 
-//---------------dance-single - DDR+StepMeister----------------
+//---------------dance-single - DDR+Timmetry----------------
 #NOTES:
      dance-single:
-     DDR+StepMeister:
+     DDR+Timmetry:
      Beginner:
      5:
      0.294,0.359,0.030,0.000,0.000:
@@ -2745,10 +2745,10 @@ MMMM
 ;
 
 
-//---------------dance-single - DDR+StepMeister----------------
+//---------------dance-single - DDR+Timmetry----------------
 #NOTES:
      dance-single:
-     DDR+StepMeister:
+     DDR+Timmetry:
      Easy:
      8:
      0.594,0.609,0.696,0.020,0.000:
@@ -3359,10 +3359,10 @@ MMMM
 ;
 
 
-//---------------dance-single - DDR+StepMeister----------------
+//---------------dance-single - DDR+Timmetry----------------
 #NOTES:
      dance-single:
-     DDR+StepMeister:
+     DDR+Timmetry:
      Medium:
      10:
      0.826,0.853,1.000,0.020,0.141:
