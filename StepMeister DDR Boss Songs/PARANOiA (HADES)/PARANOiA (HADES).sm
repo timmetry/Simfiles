@@ -21,10 +21,10 @@
 #BGCHANGES:;
 #KEYSOUNDS:;
 
-//---------------dance-single - DDR+Timmetry----------------
+//---------------dance-single - DDR+StepMeister----------------
 #NOTES:
      dance-single:
-     DDR+Timmetry:
+     DDR+StepMeister:
      Hard:
      11:
      0.878,0.853,0.858,0.020,0.161:
@@ -995,10 +995,10 @@
 ;
 
 
-//---------------dance-single - DDR+Timmetry----------------
+//---------------dance-single - Timmetry (rewrite)----------------
 #NOTES:
      dance-single:
-     DDR+Timmetry:
+     Timmetry (rewrite):
      Challenge:
      13:
      1.000,1.000,0.424,0.797,0.504:
@@ -2141,10 +2141,10 @@ MMMM
 ;
 
 
-//---------------dance-single - DDR+Timmetry----------------
+//---------------dance-single - DDR+StepMeister----------------
 #NOTES:
      dance-single:
-     DDR+Timmetry:
+     DDR+StepMeister:
      Beginner:
      5:
      0.294,0.359,0.030,0.000,0.000:
@@ -2745,10 +2745,10 @@ MMMM
 ;
 
 
-//---------------dance-single - DDR+Timmetry----------------
+//---------------dance-single - DDR+StepMeister----------------
 #NOTES:
      dance-single:
-     DDR+Timmetry:
+     DDR+StepMeister:
      Easy:
      8:
      0.594,0.609,0.696,0.020,0.000:
@@ -3359,10 +3359,10 @@ MMMM
 ;
 
 
-//---------------dance-single - DDR+Timmetry----------------
+//---------------dance-single - DDR+StepMeister----------------
 #NOTES:
      dance-single:
-     DDR+Timmetry:
+     DDR+StepMeister:
      Medium:
      10:
      0.826,0.853,1.000,0.020,0.141:
